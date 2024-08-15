@@ -23,7 +23,7 @@
 
     <h2>Ingredients:</h2>
     <ul>
-        <li>1 cup Butter or Ghee, softened</li>
+        <li>1 cup Cow Ghee, softened</li>
         <li>3/4 cup Sugar</li>
         <li>3/4 cup Brown sugar, packed</li>
         <li>2 Eggs, large</li>
@@ -37,7 +37,7 @@
 
     <h2>Baking Instructions:</h2>
     <ol>
-        <li>Heat oven Up to 275°F.</li>
+        <li>Heat oven Up to 278°F.</li>
         <li>Stir flour with baking soda and salt; set aside.</li>
         <li>In a large mixing bowl, beat butter with sugar and brown sugar at medium speed until creamy and lightened in color.</li>
         <li>Add eggs and vanilla, one at a time. Mix on low speed until incorporated.</li>
