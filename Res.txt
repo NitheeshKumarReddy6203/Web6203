@@ -21,7 +21,9 @@
 <body>
     <h1>Chocolate Chip Cookies Recipe</h1>
 
-    <h2>Ingredients:</h2>
+
+    <h2>Ingredients/ Requirements :</h2>
+
     <ul>
         <li>1 cup Cow Ghee, softened</li>
         <li>3/4 cup Sugar</li>
