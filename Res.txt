@@ -19,8 +19,8 @@
     </style>
 </head>
 <body>
-    <h1>Chocolate Chips, Cookies & Biscults Recipe</h1>
 
+    <h1>Chocolate Chips, Cookies & Biscults Recipe</h1>
 
     <h2>Ingredients/ Requirements :</h2>
 
